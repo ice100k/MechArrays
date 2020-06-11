@@ -1,7 +1,8 @@
-name: "PlaceHolder"
-displayName: "PlaceHolder" [blue]Name[]
-author: "Ice100k, TheCrisperson"
-description: "The first mod ice100k and TheCrisperson made."
-version: "0.0.1"
-minGameVersion: "100.3"
-dependencies: [ ]
+{
+  name: "unidentified",
+  displayName: "unidentified" [yellow]Name[],
+  author: "ice100k",
+  description: "A simple mod that ads some new rescoursces",
+  version: "0.0.1",
+  minGameVersion: "99.11"
+}
