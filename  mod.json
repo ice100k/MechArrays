@@ -1,0 +1,8 @@
+{
+  "name" : "MechArrayMod",
+  "displayName" : "[violet] MechArrayMod",
+  "author" : "ice100k",
+  "description" : "A mod that adds a large array of mechs",
+  "version" : "0.0.1",
+  "minGameVersion" : "99.11"
+}

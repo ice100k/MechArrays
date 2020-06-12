@@ -17,7 +17,8 @@ weaponOffsetX: 4
 weapon: {
   name: NanoBots
   length: 1.5
-  reload: 4
+  reload: 10
   alternate: false
-  bullet: lightning
+  bullet: meltdownLaser
+  shots: 2
 }

@@ -1,7 +1,0 @@
-name: NanoBots
-displayName: NanoBots [violet]Name[]
-author: ice100k
-description: Adds new spawners and mechanics to go with them...
-version: "1.0"
-minGameVersion: "97.11"
-dependencies: [ ]
