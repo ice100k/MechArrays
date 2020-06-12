@@ -1,7 +1,7 @@
 name: Nanobot Mech Pad
 description: Transform into a mach wich summons mysterious nanobots...
 type: MechPad
-mech: NanobotMech
+mech: NanoBotMech
 size: 2
 consumes: {
   power: 0.7

@@ -1,8 +1,0 @@
-{
-  name: "unidentified",
-  displayName: "unidentified" [yellow]Name[],
-  author: "ice100k",
-  description: "A simple mod that ads some new rescoursces",
-  version: "0.0.1",
-  minGameVersion: "99.11"
-}
