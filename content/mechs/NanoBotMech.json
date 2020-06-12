@@ -22,4 +22,9 @@
     "bullet": "meltdownLaser",
     "shots": 2,
   }
+  "unitType": "NanoBot",
+  "size": 2,
+  "produceTime": 350,
+  "consumes": {
+    }
 }
