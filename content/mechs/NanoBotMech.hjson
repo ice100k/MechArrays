@@ -1,11 +1,18 @@
 name: NanoBots
 description: A mech that deploys lots of nanobots to kill your enimies...
 speed: 1
-boostSpeed: 12
+maxSpeed: 2
+boostSpeed: 1.5
 buildPower: 2
 engineColor: "666495"
 flying: false
 health: 400
+canHeal: true
+mineSpeed: 0.5
+drillPower: 5
+buildPower: 10
+itemCapacity: 10
+drawCell: true
 weaponOffsetX: 4
 weapon: {
   name: NanoBots
