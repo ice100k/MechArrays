@@ -1,0 +1,19 @@
+"name": "Nanobot Mech Pad",
+"description": "Transform into a mech wich summons mysterious nanobots...",
+"type": "MechPad",
+"mech": "NanoBotMech",
+"size": 2,
+"consumes": {
+  "power": 0.7,
+  "items": {
+    "items": [
+      "scrap"/70
+    ]
+}
+"category": "upgrade",
+"research": "wraith-factory",
+"requirements": [
+  "titanium"/10,
+  "silicon"/40,
+  "graphite"/50,
+]
